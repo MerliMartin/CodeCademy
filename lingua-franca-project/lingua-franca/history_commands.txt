@@ -1,0 +1,79 @@
+pwd
+ls
+mkdir world
+touch world/esperanto.txt
+ls world
+ls -alt
+ls europe
+ls
+pwd
+ls
+mkdir world
+touch world/esperanto.txt
+ls world
+ls -alt
+ls europe
+mv europe/chinese.txt asia/
+ls 
+cp spanish.txt europe/
+cp spanish.txt northamerica/
+cp spanish.txt C
+ls
+cp spanish.txt southamerica/
+rm spanish.txt 
+ls todo/*
+cp todo/africa/* africa/
+cp todo/asia/* asia/
+cp todo/europe/* europe/
+rm -r todo/
+ls
+mkdir todo
+ls
+ls asia
+ls asia/* > todo/asian_language_files.txt
+ls todo/
+echo "Welkom by die Lingua Franca veraaldienste" > africa/afrikaans.txt 
+ grep*.txt | wc == 0 > todo/empty_files.txt  
+wc -l */*.txt | grep 0 > todo/empty_files.txt
+sed -i 's/Lingua-Franca/Lingua Franca/g' */*.txt
+grep -Rl "Lingua-Franca' */*.txt | wc -l
+
+q
+uit
+quit
+q
+
+exit
+grep -Rl 'Lingua-Franca' */*.txt | wc -l
+nano ~/.bash_profile
+nano ~/.bash_profile
+clear
+source ~/.bash_profile
+nono ~/.bash_profile
+nano ~/.bash_profile
+ clear
+source ~/.bash_profile
+md test_folder
+ls
+hy
+d
+hy
+ls
+rm -r test_folder/
+md translations
+ls
+nano ~/.bash_profile
+clear
+source ~/.bash_profile
+nano ~/.bash_profile
+clear
+source ~/.bash_profile
+md test_folder
+d
+hy
+ls test_folder/
+env
+hy -w ~/history_commands.txt
+ls
+ls -alt
+hy -w history_commands.txt
